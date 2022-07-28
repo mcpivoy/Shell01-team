@@ -1,8 +1,8 @@
 # Shell01-team
-## 现任队长罗师傅
+## 现任队长 KerwinAs & Web
+#### 队里吉祥物 最菜的🐕
 
-
-## Mcpvioy&pwn
+## Mcpvioy & Pwn
 #### 只会做PPT的二进制🐕
 
 
